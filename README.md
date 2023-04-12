@@ -1,16 +1,19 @@
-# lab3
+# Option 2. "Student campus" + window application.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Data:
+  ### number of rooms;
+  ### number of personnel;
+  ### name of the university;
+  ### amount of students;
+  ### payment for accommodation;
+  ### address;
+___
+## Methods:
+  ### increasing the number of rooms;
+  ### eviction of students;
+  ### accommodation of students;
+  ### determination of profit for a certain period;
+  ### initializing constructor;
+  ### method ToString;
+  ### an implementation of the ICloneable<T> class to create a complete copy of an object.
+  ### implementation of the expanding method *(adding a canteen to the campus: +20% to profit for any period, +5 staff members)*
